@@ -1,1 +1,4 @@
-hshsjsjs
+function(){
+ alert(“hello world”)
+
+}
